@@ -44,8 +44,8 @@ kramdown:
 
 # Analytics settings
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'G-49LLEEJL0D'            # Format: UA-xxxxxx-xx
+ga_domain: tuongmai.com
 
 
 
