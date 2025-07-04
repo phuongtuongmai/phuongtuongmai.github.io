@@ -52,7 +52,7 @@ ga_domain: tuongmai.com
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Trang thông tin phường Tương Mai - TP Hà Nội"
-sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hanoi.svg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
