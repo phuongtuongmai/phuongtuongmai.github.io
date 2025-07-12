@@ -58,6 +58,7 @@ body {
   font-size: 16px;
   color: #404040;
   overflow-x: hidden;
+  background-color: #edf2f7;
 }
 p {
   margin: 30px 0;
@@ -504,7 +505,7 @@ pre code {
 .post-preview > .post-meta {
   font-family: "IBM Plex Serif", Arial, Helvetica, sans-serif;
   color: #808080;
-  font-size: 16px;
+  font-size: 14px;
   font-style: italic;
   margin-top: 0;
 }
@@ -527,7 +528,7 @@ pre code {
     font-size: 16px;
   }
   .post-preview .post-meta {
-    font-size: 18px;
+    font-size: 14px;
   }
 }
 .post-content-preview {

@@ -1,26 +1,17 @@
 ---
 layout:     post
-title:      "Chính quyền là nơi phục vụ nhân dân"
+title:      Chính quyền là nơi phục vụ nhân dân
 subtitle:   
 date:       2025-07-01 00:00:00
-author:     "tuongmai.com"
-header-img: "https://file3.qdnd.vn/data/images/0/2025/07/01/upload_2232/nhs_5446.jpg?dpi=150&quality=100&w=870"
+author:     tuongmai.com
+header-img: img/post/post_chinh_quyen_1.jpg
+header-mask: 0.5
+catalog: true
 tags:
     - Hành chính
 ---
 
 [//]: # (template img ![]())
-
-```{css echo=FALSE}
-.boxed {
-    background: #F2F2F2;
-    color: black;
-    border: 1px #CCCCCC;
-    margin: 0px auto;
-    padding: 10px;
-    border-radius: 10px;
-}
-```
 
 **Ngay từ sáng 1-7, khi mô hình chính quyền địa phương hai cấp chính thức vận hành tại Hà Nội, Điểm phục vụ hành chính công Tương Mai đã ghi dấu bằng một không khí làm việc chuyên nghiệp, tinh thần trách nhiệm cao và sự hài lòng của người dân.**
 
