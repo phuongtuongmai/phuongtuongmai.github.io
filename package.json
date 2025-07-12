@@ -2,7 +2,7 @@
     "name": "tuongmai.com",
     "title": "Tương Mai",
     "version": "1.0.0",
-    "homepage": "http://tuongmai.com",
+    "homepage": "https://tuongmai.com",
     "author": "tuongmai.com",
     "devDependencies": {
         "grunt": "~0.4.5",
