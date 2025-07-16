@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+}
+b, strong {
+    font-weight: 500;
+}
+
+.container {
+    background: #fff;
+    border-radius: 15px;
+}
+
+@media (min-width: 768px) {
+    .post-container {
+        padding-right: 15px;
+    }
+}
+@media (min-width: 1200px) {
+    .post-container, .sidebar-container {
+        padding-right: 15px;
+    }
+}
+
+.navbar-custom .navbar-brand {
+    font-weight: 500;
+}
+.navbar-custom .nav li a {
+    font-weight: 500;
+}
+.post-container h1, .post-container h2, .post-container h3, .post-container h4, .post-container h5, .post-container h6 {
+    margin: 15px 0 10px;
+}
+.side-catalog {
+    width: 100%;
+    padding-right: 15px;
+}
+.side-catalog .catalog-body li a {
+    max-width: 100%;
+}
+.side-catalog .catalog-body .h1_nav, .side-catalog .catalog-body .h2_nav, .side-catalog .catalog-body .h3_nav {
+    font-weight: 500;
+}
+.side-catalog .catalog-body li a {
+    height: auto;
+    white-space: normal;
+}
+.side-catalog .catalog-body li a {
+    height: auto;
+    line-height: normal;
+    white-space: normal;
+}
