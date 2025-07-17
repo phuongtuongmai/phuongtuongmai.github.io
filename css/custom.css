@@ -5,19 +5,19 @@ b, strong {
     font-weight: 500;
 }
 
-body .container {
+body > .container {
     background: #fff;
     border-radius: 15px;
     padding-bottom: 15px;
 }
 
 @media (min-width: 768px) {
-    body .post-container {
+    .post-container {
         padding-right: 15px;
     }
 }
 @media (min-width: 1200px) {
-    body .post-container, .sidebar-container {
+    .post-container, .sidebar-container {
         padding-right: 15px;
     }
 }
