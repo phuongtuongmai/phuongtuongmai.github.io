@@ -9,12 +9,12 @@ layout: default
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
+        background-image: url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
     }
     {% if page.header-mask %}
     header.intro-header{
         position: relative;
-        background-image: linear-gradient(rgba(0, 0, 0, {{ page.header-mask }}), rgba(0, 0, 0, {{ page.header-mask }})), url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+        background-image: linear-gradient(rgba(0, 0, 0, {{ page.header-mask }}), rgba(0, 0, 0, {{ page.header-mask }})), url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
     }
     {% endif %}
 </style>

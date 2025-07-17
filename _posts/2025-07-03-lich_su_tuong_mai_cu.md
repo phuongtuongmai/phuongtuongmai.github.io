@@ -4,7 +4,7 @@ title:      Lịch sử Tương Mai cũ (trước 01/07/2025)
 subtitle:   
 date:       2025-07-03 00:00:00
 author:     tuongmai.com
-header-img: https://nhn.1cdn.vn/2023/07/27/dinh-tuong-mai-hm.jpg
+header-img: https://pro-media.nhaongay.vn/images/2022/5/review-phuong-tuong-mai-1.png
 header-mask: 0.5
 catalog: true
 tags:
@@ -22,6 +22,8 @@ Phường Tương Mai có vị trí địa lý:
 - Phía bắc giáp quận Hai Bà Trưng.
 
 Phường Tương Mai có diện tích 0,74 km², dân số năm 2024 là 33.260 người, mật độ dân số đạt 44.945 người/km². 
+
+![](https://files.dandautu.vn/images/info-areas/c-874-1681099701-5318.jpg)
 
 ## Lịch sử
 
@@ -68,6 +70,9 @@ Phường Tương Mai có một số trường học:
 - Trường Mẫu giáo Tương Mai
 - Trường Tiểu học Tân Định
 - Trường Trung học cơ sở Tân Định.
+
+![](https://nhn.1cdn.vn/thumbs/540x360/2018/10/12/nguoihanoi-com-vn-gan-bien-cong-trinh-truong-mau-giao-tuong-mai_46103.jpg)
+
 
 ## Các cơ quan, doanh nghiệp trên địa bàn
 - Học viện Y học hàng không (trước đây là Bệnh viện Phòng không – Không quân)

@@ -4,7 +4,7 @@ title:      Chính quyền là nơi phục vụ nhân dân
 subtitle:   
 date:       2025-07-01 00:00:01
 author:     tuongmai.com
-header-img: img/post/post_chinh_quyen_1.jpg
+header-img: /img/_post/2-cap.png.webp
 header-mask: 0.5
 catalog: true
 tags:

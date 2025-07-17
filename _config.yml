@@ -1,7 +1,7 @@
 # Site settings
 title: tuongmai.com
 SEOTitle: Phường Tương Mai | Hà Nội
-header-img: img/ha-noi-sunset.jpg
+header-img: /img/ha-noi-sunset.jpg
 email: tuongmai.com@gmail.com
 description: "Tương Mai, Minh Khai, Trương Định, Đồng Tâm, Vĩnh Hưng, Mai Động, Tân Mai, Hoàng Văn Thụ, Giáp Bát, Phương Liệt"
 keyword: "Tương Mai, Minh Khai, Trương Định, Đồng Tâm, Vĩnh Hưng, Mai Động, Tân Mai, Hoàng Văn Thụ, Giáp Bát, Phương Liệt"

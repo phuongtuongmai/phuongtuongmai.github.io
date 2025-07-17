@@ -5,7 +5,7 @@ b, strong {
     font-weight: 500;
 }
 
-body > .container {
+body > .container, article > .container {
     background: #fff;
     border-radius: 15px;
     padding-bottom: 15px;
@@ -40,6 +40,7 @@ body > .container {
 }
 .side-catalog .catalog-body .h1_nav, .side-catalog .catalog-body .h2_nav, .side-catalog .catalog-body .h3_nav {
     font-weight: 500;
+    padding-bottom: 5px;
 }
 .side-catalog .catalog-body li a {
     height: auto;
