@@ -51,3 +51,55 @@ body > .container, article > .container {
     line-height: normal;
     white-space: normal;
 }
+
+article.p-preview {
+    padding-left: calc(14px + 141px);
+    min-height: 87px;
+    position: relative;
+}
+
+@media (min-width: 768px) {
+    article.p-preview {
+        padding-left: calc(22px + 240px);
+        min-height: 148px;
+    }
+}
+
+a.p-preview {
+    display: block;
+}
+
+.img.p-preview {
+    width: 141px;
+    height: 87px;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+@media (min-width: 768px) {
+    .img.p-preview {
+        width: 240px;
+        height: 148px;
+    }
+}
+
+.thumb-wrapper {
+    position: relative;
+    width: 100%;
+}
+.thumb.no-border {
+    border: 0;
+}
+.thumb {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: block;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: var(--button-light);
+    border: 1px solid var(--border-thread-thumbnail);
+}
