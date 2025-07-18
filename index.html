@@ -10,6 +10,8 @@ description: "Trang thông tin phường Tương Mai - TP Hà Nội"
             <div class="p-preview img">
                 <div class="lazyload-wrapper">
                     <div class="thumb-wrapper">
+
+                        {% if post.thumbnail %}
                         <div
                             class="thumb no-border"
                             style="
@@ -19,6 +21,18 @@ description: "Trang thông tin phường Tương Mai - TP Hà Nội"
                                 padding-top: 61.9%;
                             "
                         ></div>
+                        {% else %}
+                        <div
+                            class="thumb no-border"
+                            style="
+                                border-radius: 8px;
+                                background-image: url('{{ post.header-img | prepend: site.baseurl }}');
+                                height: 0px;
+                                padding-top: 61.9%;
+                            "
+                        ></div>
+                        {% endif %}
+                        
                     </div>
                 </div>
             </div>
@@ -28,11 +42,6 @@ description: "Trang thông tin phường Tương Mai - TP Hà Nội"
                 {{ post.title }}
             </h2>
         </a>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
         <div class="post-content-preview">
             {{ post.content | strip_html | truncate:200 }}
         </div>
@@ -42,25 +51,6 @@ description: "Trang thông tin phường Tương Mai - TP Hà Nội"
     </div>
 </article>
 
-
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
-        </div>
-    </a>
-    <p class="post-meta">
-        {{ post.date | date: "%d-%m-%Y" }}
-    </p>
-</div>
 <hr>
 {% endfor %}
 

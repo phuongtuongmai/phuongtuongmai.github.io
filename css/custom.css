@@ -1,5 +1,28 @@
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
+    font-weight: 500;
+}
+.h1,h1 {
+    font-size: 28px
+}
+
+.h2,h2 {
+    font-size: 24px
+}
+
+.h3,h3 {
+    font-size: 20px
+}
+
+.h4,h4 {
+    font-size: 16px
+}
+
+.h5,h5 {
+    font-size: 14px
+}
+
+.h6,h6 {
+    font-size: 12px
 }
 b, strong {
     font-weight: 500;
@@ -29,7 +52,7 @@ body > .container, article > .container {
     font-weight: 500;
 }
 .post-container h1, .post-container h2, .post-container h3, .post-container h4, .post-container h5, .post-container h6 {
-    margin: 15px 0 10px;
+    margin: 0px 0 10px;
 }
 .side-catalog {
     width: 100%;
@@ -60,8 +83,8 @@ article.p-preview {
 
 @media (min-width: 768px) {
     article.p-preview {
-        padding-left: calc(22px + 240px);
-        min-height: 148px;
+        padding-left: calc(20px + 200px);
+        min-height: 125px;
     }
 }
 
@@ -79,8 +102,8 @@ a.p-preview {
 
 @media (min-width: 768px) {
     .img.p-preview {
-        width: 240px;
-        height: 148px;
+        width: 200px;
+        height: 125px;
     }
 }
 
@@ -100,6 +123,13 @@ a.p-preview {
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: var(--button-light);
+    background-color: #e5e6ec;
     border: 1px solid var(--border-thread-thumbnail);
+}
+
+.post-meta {
+    margin: 0px 0;
+}
+.post-content-preview {
+  color: #344054;
 }
