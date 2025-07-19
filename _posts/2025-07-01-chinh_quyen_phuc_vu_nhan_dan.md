@@ -4,9 +4,9 @@ title:      Chính quyền là nơi phục vụ nhân dân
 subtitle:   
 date:       2025-07-01 00:00:01
 author:     tuongmai.com
-header-img: /img/_post/2-cap.png.webp
+header-img: /img/post/2-cap.webp
 header-mask: 0.5
-catalog: true
+catalog: false
 tags:
     - Hành chính
 ---
@@ -57,4 +57,4 @@ Với những cách làm cụ thể, sát thực tiễn và lấy người dân 
 
 Không có sự lúng túng, ngập ngừng, chỉ có sự sẵn sàng, tự tin và quyết tâm cao của đội ngũ cán bộ cơ sở. Đây là bước khởi đầu đầy thuận lợi để TP Hà Nội tiếp tục mở rộng và hoàn thiện mô hình mới trên địa bàn toàn thành phố, hướng đến xây dựng một nền hành chính hiện đại, minh bạch, hiệu năng, hiệu lực, hiệu quả, nơi chính quyền là người phục vụ và nhân dân là trung tâm của mọi quyết sách.
 
-**Bài và ảnh: NGUYỄN HỒNG SÁNG**
+*Bài và ảnh: NGUYỄN HỒNG SÁNG*
