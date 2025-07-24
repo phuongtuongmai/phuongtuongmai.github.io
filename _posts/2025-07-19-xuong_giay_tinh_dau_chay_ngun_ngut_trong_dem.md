@@ -4,7 +4,7 @@ title:      Xưởng giấy, tinh dầu ở Hà Nội cháy ngùn ngụt trong �
 subtitle:   
 date:       2025-07-21 00:00:00
 author:     tuongmai.com
-header-img: https://photo-baomoi.bmcdn.me/w700_r1/2025_07_22_8_52803731/76d782644e2aa774fe3b.jpg.avif
+header-img: https://cdnphoto.dantri.com.vn/Afww2zIPYac68j_0lmlo4Qqng_w=/2025/07/19/chay-1-edited-1752890005396.jpg
 header-mask: 0.5
 catalog: true
 tags:
@@ -19,7 +19,7 @@ Khoảng 0h ngày 19/7, xưởng khung thép, quây tôn rộng khoảng 1.000 m
 
 Xưởng nằm trong khu dân cư đông đúc, cách mặt đường lớn khoảng 200 m, nên cả khu phố náo loạn. Hàng trăm người tràn ra đường theo dõi.
 
-![](https://photo-baomoi.bmcdn.me/w700_r1/2025_07_19_23_52781146/25172fbbfcf515ab4ce4.jpg.avif)
+![](https://cdn-i.vtcnews.vn/resize/th/upload/2025/07/19/51989780010741241376163425628001456522108853n-06125321.jpg)
 
 
 Khoảng 10 phút khi lửa bùng lên, ít nhất 6 xe cứu hỏa cùng hàng chục chiến sĩ được điều đến hiện trường. Đoạn phố Trương Định bị phong tỏa phục vụ cho công tác chữa cháy.
@@ -29,6 +29,8 @@ Do trong xưởng chứa nhiều vật liệu dễ cháy, lửa nhanh chóng bù
 Công tác chữa cháy gặp nhiều khó khăn do diện tích xưởng lớn. Cảnh sát phòng cháy chủ yếu phun nước nhằm tránh cháy lan sang khu dân cư.
 
 Tới khoảng 2h30, đám cháy cơ bản được khống chế, nhà xưởng gần như đổ sập. Một chiến sĩ cảnh sát phòng cháy bị ngạt khói, phải thở bình oxy và nhập viện theo dõi.
+
+![](https://cdn-i.vtcnews.vn/resize/th/upload/2025/07/19/5196249991260014859085625791095254179223645n-06180926.jpg)
 
 Theo người dân sinh sống xung quanh, khu vực cháy là nhà xưởng tổng hợp, bên trong chứa rất nhiều sản phẩm như: giấy, tinh dầu, dầu gội, hoá chất... Nguyên nhân cháy đang được điều tra.
 
