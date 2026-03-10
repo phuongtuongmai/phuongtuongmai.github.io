@@ -1,14 +1,17 @@
 ---
 layout:     post
-title:      TRỤC KHÔNG GIAN QUỐC LỘ 1A
+title:      Thuyết minh và bản vẽ trục không gian quốc lộ  1A (1/500)
 subtitle:   Thuyết minh dự án
-date:       2025-07-01 00:00:01
+date:       2026-03-04 00:00:01
 author:     tuongmai.com
-header-img: https://bds789.com/upload/images/thuyet-minh-va-ban-ve-phuong-an-vi-tri-tuyen-duong-ty-le-1500-quoc-lo-1a-%E2%80%93-du-an-truc-khong-gian-quoc-lo-1a-tu-ham-kim-lien-den-nut-giao-cau-gie%20(1).jpg
+header-img: https://nguoiduatin.mediacdn.vn/84137818385850368/2026/1/14/quoc-lo-1a-nguoiduatinvn-9-1768397406241929914321.jpg
 header-mask: 0.5
 catalog: false
 tags:
-    - Hành chính
+    - Quy hoạch
+    - Quốc lộ 1A
+    - Giải Phóng
+    - Tương Mai
 ---
 
 [//]: # (template img ![]())
