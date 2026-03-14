@@ -4,9 +4,10 @@ title:      Phạm vi ảnh hưởng tới phường Tương Mai
 subtitle:   Thuyết minh và bản vẽ trục không gian quốc lộ  1A (1/500)
 date:       2026-03-04 00:00:02
 author:     tuongmai.com
-header-img: https://nguoiduatin.mediacdn.vn/84137818385850368/2026/1/14/quoc-lo-1a-nguoiduatinvn-9-1768397406241929914321.jpg
+header-img: https://cdn.tienphong.vn/images/a6bf4f60924201126af6849ca45a3980b2acc634e473f2bb9c95a8077f97955346994c320b45e5372d8140ab21f4e1874e0c51c2f71284f09c12cd2b8705e87e/tp-ham-chuii-50-2825.jpg
 header-mask: 0.5
 catalog: false
+full-width: true
 tags:
     - Quy hoạch
     - Quốc lộ 1A
