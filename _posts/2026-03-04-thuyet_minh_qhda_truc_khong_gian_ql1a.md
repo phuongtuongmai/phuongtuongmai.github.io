@@ -112,4 +112,4 @@ Việc mở rộng tuyến Quốc lộ 1A kết hợp tái thiết đô thị kh
 Tải về: [File thuyết minh phương án, vị trí tuyến đường tỷ lệ 1/500 Quốc lộ 1A thuộc Dự án Trục không gian Quốc lộ 1A gắn với tái thiết và chỉnh trang đô thị (đoạn từ hầm Kim Liên đến nút giao cầu Giẽ)](/res/pdf/THUY%E1%BA%BET%20MINH.pdf).
 
 
-Tải về [File bản vẽ 03. Tương Mai 62-65)](/res/pdf/03%20T%C6%AF%C6%A0NG%20MAI%2062%20%C4%90%E1%BA%BEN%2065.pdf).
+Tải về [File bản vẽ 03. (Tương Mai 62-65)](/res/pdf/03%20T%C6%AF%C6%A0NG%20MAI%2062%20%C4%90%E1%BA%BEN%2065.pdf).
