@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Người dân phường Định Công: Đồng thuận phương án tuyến Quốc lộ 1A; kiến nghị rõ tiến độ, chính sách
+title:      Người dân phường Định Công Đồng thuận phương án tuyến Quốc lộ 1A, kiến nghị rõ tiến độ, chính sách
 subtitle:   Quy hoạch đường Giải Phóng, thông tin từ hàng xóm
-date:       2026-03-20 18:30:01
+date:       2026-03-20 00:00:02
 author:     tuongmai.com
-header-img: https://hnm.1cdn.vn/2026/03/20/495f5e85e8/936_8270.mxf.00_00_44_14.still001-1-.jpg
+header-img: https://kientrucvietnam.org.vn/wp-content/uploads/2022/08/antd-ga-giap-bat01-2296.jpg
 header-mask: 0.5
 catalog: false
 tags:
