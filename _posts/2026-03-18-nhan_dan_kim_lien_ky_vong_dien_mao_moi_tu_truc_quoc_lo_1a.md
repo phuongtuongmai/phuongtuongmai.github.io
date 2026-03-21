@@ -7,7 +7,6 @@ author:     tuongmai.com
 header-img: https://hnm.1cdn.vn/2026/03/18/c2c6a85059/z7633495502125_c464e4d33ab6ab0cf90b01844c5e2629.jpg
 header-mask: 0.5
 catalog: false
-full-width: true
 tags:
     - Quy hoạch
     - Quốc lộ 1A

@@ -7,7 +7,6 @@ author:     tuongmai.com
 header-img: https://sqhx-hanoi.mediacdn.vn/91579363132710912/2026/3/20/de661a29b0893ed76798-1773991322893-17739913236161822757983.jpg
 header-mask: 0.5
 catalog: false
-full-width: true
 tags:
     - Hành chính
     - Bầu cử
