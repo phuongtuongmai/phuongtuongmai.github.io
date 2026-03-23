@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Bạch Mai: Khởi động dự án giao thông trọng điểm, tái thiết đô thị
+title:      Bạch Mai Khởi động dự án giao thông trọng điểm, tái thiết đô thị
 subtitle:   Quy hoạch đường Giải Phóng, thông tin từ phường Bạch Mai
-date:       2026-03-20 00:00:02
+date:       2026-03-21 00:00:01
 author:     tuongmai.com
 header-img: https://hnm.1cdn.vn/2026/03/21/b0a3fad03c/bm-du-an-21-3-4.jpg
 header-mask: 0.5
