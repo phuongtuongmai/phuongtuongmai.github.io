@@ -16,7 +16,7 @@ tags:
 [//]: # (template img ![]())
 [//]: # (template link []())
 
-**Dự án đầu tư trục không gian Quốc lộ 1A gắn với chỉnh trang và tái thiết đô thị trên địa bàn Hà Nội có chiều khoảng 38,8km.**
+**Dự án đầu tư trục không gian Quốc lộ 1A gắn với chỉnh trang và tái thiết đô thị trên địa bàn Hà Nội có chiều dài khoảng 38,8km.**
 
 Theo thông báo, UBND TP Hà Nội cơ bản thống nhất về phương án tuyến và vị trí tuyến như báo cáo tại cuộc họp. Thành phố giao đơn vị tư vấn tiếp tục rà soát kỹ các thông số, đặc biệt tại các nút giao lớn như Pháp Vân, Đại Xuyên, bảo đảm tối ưu công năng trên mặt cắt ngang tuyến 90m.
 
