@@ -24,11 +24,11 @@ tags:
 
 1. [Ngã tư Vọng - VĐ 2](/res/pdf/1878/65.pdf)
 
-2. [Cống Trắng - Tương Mai](/res/pdf/1878/65.pdf)
+2. [Cống Trắng - Tương Mai](/res/pdf/1878/64.pdf)
 
-3. [Giáp Bát - CC 360 Giải Phóng](/res/pdf/1878/65.pdf)
+3. [Giáp Bát - CC 360 Giải Phóng](/res/pdf/1878/63.pdf)
 
-4. [Kim Đồng - VĐ 2.5](/res/pdf/1878/65.pdf)
+4. [Kim Đồng - VĐ 2.5](/res/pdf/1878/62.pdf)
 
 ![](/img/post/ql1a/qd_ubnd_1878/65_min.jpg)
 
