@@ -19,7 +19,7 @@ tags:
 
 **Sáng 11-5, tại kỳ họp thứ hai, với 100% đại biểu có mặt tán thành, HĐND thành phố Hà Nội thông qua Nghị quyết phê duyệt chủ trương đầu tư dự án trục không gian quốc lộ 1A gắn với chỉnh trang và tái thiết đô thị theo phương thức đối tác công tư (PPP), loại hợp đồng xây dựng - chuyển giao (BT), đoạn từ đường Vành đai 1 đến nút giao Cầu Giẽ.**
 
-File *Nghị quyết 19/NQ-HĐND: Về việc quyết định chủ trương đầu tư Dự án Trục không gian Quốc lộ 1A gắn với chỉnh trang và tái thiết đô thị theo phương thức đối tác công tư (PPP), loại hợp đồng xây dựng - chuyển giao (BT), đoạn từ đường Vành đai 1 đến nút giao Cầu Giẽ*: [Ngã tư Vọng - VĐ 2](/res/pdf/NQ-19-2026.pdf)
+File *Nghị quyết 19/NQ-HĐND: Về việc quyết định chủ trương đầu tư Dự án Trục không gian Quốc lộ 1A gắn với chỉnh trang và tái thiết đô thị theo phương thức đối tác công tư (PPP), loại hợp đồng xây dựng - chuyển giao (BT), đoạn từ đường Vành đai 1 đến nút giao Cầu Giẽ*: [Nghị quyết 19/NQ-HĐND](/res/pdf/NQ-19-2026.pdf)
 
 Dự án có nhu cầu sử dụng tổng diện tích đất khoảng 337,3ha. Sơ bộ tổng mức đầu tư 161.994 tỷ đồng.
 
