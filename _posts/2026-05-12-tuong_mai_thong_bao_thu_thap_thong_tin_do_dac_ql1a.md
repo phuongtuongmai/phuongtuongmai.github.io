@@ -5,8 +5,9 @@ subtitle:   Tương Mai
 date:       2026-05-12 10:00:01
 author:     tuongmai.com
 header-img: https://cdn.thuvienphapluat.vn/uploads/tintuc/2024/12/30/do-dac-ranh-gioi-thua-dat.jpg
+header-mask: 0.5
 catalog: false
-full-width: true
+full-width: false
 tags:
     - Quy hoạch
     - Quốc lộ 1A
