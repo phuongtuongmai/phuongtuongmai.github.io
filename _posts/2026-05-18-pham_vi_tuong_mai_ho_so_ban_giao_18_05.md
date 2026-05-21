@@ -24,7 +24,7 @@ tags:
 
 2. [Cống Trắng - Tương Mai](/res/pdf/hn_ban_giao_vin/64.pdf)
 
-3. [Giáp Bát - CC 360 Giải Phóng](/res/pdf/hn_ban_giao_vin/1878/63.pdf)
+3. [Giáp Bát - CC 360 Giải Phóng](/res/pdf/hn_ban_giao_vin/63.pdf)
 
 4. [Kim Đồng - VĐ 2.5](/res/pdf/hn_ban_giao_vin/62.pdf)
 
