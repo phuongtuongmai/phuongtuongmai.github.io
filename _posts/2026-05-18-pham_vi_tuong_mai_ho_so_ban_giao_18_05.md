@@ -18,7 +18,7 @@ tags:
 
 [//]: # (template img ![]())
 
-**Hồ sơ bàn giao tải tại đây: ** [Phuong an Tuyen QL1A.pdf](https://drive.google.com/file/d/1otUtdnM7BO9H-iTBaO15zsvYFUF9LMlM/view?usp=sharing)
+**Hồ sơ bàn giao tải tại đây: ** [Phuong an Tuyen QL1A.pdf](https://drive.google.com/drive/folders/1Ke3Nbo69XZ94vCqvvdmZM3Td56v1M3Qx?usp=sharing)
 
 1. [Ngã tư Vọng - VĐ 2](/res/pdf/hn_ban_giao_vin/65.pdf)
 
