@@ -17,6 +17,7 @@ tags:
 
 [//]: # (template img ![]())
 
+**Hồ sơ bàn giao tải tại đây: ** [Phuong an Tuyen QL1A.pdf](https://drive.google.com/file/d/1otUtdnM7BO9H-iTBaO15zsvYFUF9LMlM/view?usp=sharing)
 
 **Sáng 18/5, Sở Quy hoạch - Kiến trúc, Viện Quy hoạch xây dựng và Tập đoàn Vingroup-Công ty CP tổ chức Hội nghị bàn giao hồ sơ phương án, vị trí tuyến đường Quốc lộ 1A, tỷ lệ 1/500 (đoạn từ nút giao Vành đai 1-Hầm Kim Liên đến nút giao Cầu Giẽ).**
 
