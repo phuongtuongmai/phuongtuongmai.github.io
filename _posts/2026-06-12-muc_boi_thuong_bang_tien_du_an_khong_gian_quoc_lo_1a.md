@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      K=2: Mức bồi thường bằng tiền đối với đất được áp dụng bằng 02 lần mức bồi thường theo quy định thông thường
+title:      K=2 Mức bồi thường bằng tiền đối với đất được áp dụng bằng 02 lần mức bồi thường theo quy định thông thường
 subtitle:   Quy hoạch mở rộng đường Giải Phóng
 date:       2026-06-12 00:00:01
 author:     tuongmai.com
