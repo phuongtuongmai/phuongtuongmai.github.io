@@ -17,9 +17,9 @@ tags:
 
 [//]: # (template img ![]())
 
-> Ngày 26/11/2025 Hội đồng nhân dân thành phố Hà Nội đã ban hành nghị quyết 52/2025/NQ-HĐND: Về việc quy định về Bảng giá đất lần đầu để công bố và áp dụng từ ngày 01 tháng 01 năm 2026 trên địa bàn thành phố Hà Nội.
+**Ngày 26/11/2025 Hội đồng nhân dân thành phố Hà Nội đã ban hành nghị quyết 52/2025/NQ-HĐND: Về việc quy định về Bảng giá đất lần đầu để công bố và áp dụng từ ngày 01 tháng 01 năm 2026 trên địa bàn thành phố Hà Nội.**
 
-Thông tin chi tiết tham khảo tại: https://vanban.hanoi.gov.vn/chi-tiet-van-ban/ve-viec-quy-dinh-ve-bang-gia-dat-lan-dau-de-cong-bo-va-ap-dung-tu-ngay-01-thang-01-nam-2026-tren-di-228293
+Thông tin chi tiết tham khảo tại: [nghị quyết 52/2025/NQ-HĐND](https://vanban.hanoi.gov.vn/chi-tiet-van-ban/ve-viec-quy-dinh-ve-bang-gia-dat-lan-dau-de-cong-bo-va-ap-dung-tu-ngay-01-thang-01-nam-2026-tren-di-228293)
 
 Trong đó liên quan đến Dự án quy hoạch trục không gian quốc lộ 1A, trên địa phận phường Tương Mai, đoạn từ vành đai 2 đến vành đai 2.5 được quy định như sau:
 
