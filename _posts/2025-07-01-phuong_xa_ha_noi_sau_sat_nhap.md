@@ -15,7 +15,7 @@ tags:
 [//]: # (template img ![]())
 [//]: # (template link []())
 
-File pdf tải tại đây: [](/res/pdf/ban-do-126-xa-phuong-hanoi-1.7.2025.pdf))
+File pdf tải tại đây: [Full bản đồ file PDF](/res/pdf/ban-do-126-xa-phuong-hanoi-1.7.2025.pdf))
 
 # Đơn vị hành chính cấp xã TP Hà Nội
 
