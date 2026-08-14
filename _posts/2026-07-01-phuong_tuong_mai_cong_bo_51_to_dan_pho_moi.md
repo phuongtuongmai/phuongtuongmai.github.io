@@ -17,7 +17,7 @@ tags:
 
 # Phường Tương Mai công bố 51 tổ dân phố mới
 
-Chiều ngày 01/7/2026, Đảng ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam phường Tương Mai tổ chức lễ công bố các quyết định thành lập, đổi tên chi bộ tổ dân phố; chỉ định cấp ủy, Bí thư chi bộ, Trưởng ban Công tác Mặt trận, Tổ trưởng các tổ dân phố.
+**Chiều ngày 01/7/2026, Đảng ủy, HĐND, UBND, Ủy ban MTTQ Việt Nam phường Tương Mai tổ chức lễ công bố các quyết định thành lập, đổi tên chi bộ tổ dân phố; chỉ định cấp ủy, Bí thư chi bộ, Trưởng ban Công tác Mặt trận, Tổ trưởng các tổ dân phố.**
 
 Sau sắp xếp, phường Tương Mai giảm số lượng tổ dân phố từ 108 xuống còn 51; đồng thời sắp xếp, kiện toàn hệ thống chi bộ tổ dân phố từ 72 xuống còn 51. Việc tổ chức lại bộ máy ở cơ sở góp phần tinh gọn đầu mối, nâng cao hiệu lực, hiệu quả hoạt động của mô hình chính quyền địa phương hai cấp.
 
@@ -108,5 +108,7 @@ Phó Bí thư Thường trực Đảng ủy phường đề nghị các chi bộ
 | **TỔNG** | | | **45.311** | | **45.311** | **145.567** | **308** | **215** |
 
 Link bài viết: [Phường Tương Mai công bố 51 tổ dân phố mới](https://tuongmai.hanoi.gov.vn/chi-dao-cua-dia-phuong/phuong-tuong-mai-cong-bo-51-to-dan-pho-moi-2828260702083747763.htm)
+
+*Copyright © Trang thông tin điện tử phường Tương Mai, thành phố Hà Nội. All Rights Reserved*
 
 ./
