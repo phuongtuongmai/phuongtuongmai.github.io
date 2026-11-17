@@ -6,7 +6,7 @@ date:       2026-11-14 00:00:01
 author:     tuongmai.com
 header-img: /img/post/metro/y_kien_cddc/phoi-canh-ga.jpg
 header-mask: 0.5
-catalog: false
+catalog: true
 full-width: false
 tags:
     - Metro
@@ -24,6 +24,11 @@ tags:
 Ngày 14/11/2026, UBND phường Tương Mai ban hành thông báo niêm yết công khai, lấy ý kiến các cơ quan, tổ chức, cá nhân và cộng đồng dân cư có liên quan đối với hồ sơ phương án hướng tuyến và vị trí nhà ga tỷ lệ 1/500 thuộc Dự án đầu tư xây dựng 05 tuyến đường sắt đô thị thành phố Hà Nội, gồm các tuyến số 1, số 2, số 8, số 10 và số 14.
 
 Theo thông báo, phần hồ sơ qua địa bàn phường Tương Mai gồm các đoạn thuộc **03 tuyến: số 01, số 08 và số 10**. Hồ sơ do Liên danh Công ty cổ phần Vinhomes – Công ty cổ phần Đầu tư và Xây dựng SGC lập. Việc công khai được thực hiện trên cơ sở Văn bản số 2548/ĐSĐT-QLTHDA2 ngày 13/11/2026 của Ban Quản lý đường sắt đô thị Hà Nội.
+
+![](/img/post/metro/y_kien_cddc/TB2120_1.jpg)
+
+
+![](/img/post/metro/y_kien_cddc/TB2120_2.jpg)
 
 # Thời gian và cách thức tham gia góp ý
 
@@ -46,6 +51,8 @@ Trong phạm vi bài viết này chỉ thể thiện **tờ số 3, khu vực ga
 # Thông tin ga S1.11 và các ký hiệu trên bản vẽ
 
 Bản vẽ ghi ga S1.11 thuộc tuyến đường sắt đô thị số 1, nằm trên địa bàn phường Phương Liệt và phường Tương Mai; đồng thời thể hiện ga S8.22 thuộc tuyến đường sắt đô thị số 8. Phần ghi chú của tờ ga nêu phương án tối đa 03 tầng hầm đối với ga đơn, 02 lối lên xuống; ke ga đón trả khách rộng khoảng 11,86 m, dài 130 m.
+
+![](/img/post/metro/y_kien_cddc/nhagavong.jpg)
 
 Các lớp nét trên hồ sơ phân biệt tim tuyến ống hầm, ranh giới ga/depot, chỉ giới đường đỏ, phạm vi bảo vệ công trình hầm, vùng không được xây dựng công trình khác, vùng kiểm soát xây dựng và ranh giới phường, xã. Vị trí và kích thước cụ thể cần đọc cùng bảng tọa độ, kích thước ghi trên bản vẽ và hồ sơ được cơ quan có thẩm quyền xác nhận.
 
